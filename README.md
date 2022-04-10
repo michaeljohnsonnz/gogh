@@ -7,6 +7,8 @@ The 3 programs I've selected are as follows:
 - [prettyping](https://github.com/denilsonsa/prettyping)
 - [critic](https://github.com/Checksum/critic.sh)
 
+For this exercise, we're working with [gogh](https://github.com/Mayccoll/Gogh).
+
 ## Table of Contents
 - [Gogh](#gogh)
   - [Table of Contents](#table-of-contents)
