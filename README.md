@@ -1,8 +1,15 @@
 # Gogh
 
-As part of our homework we have to install and demonstrate 3 command line applications. For this task, I've chosen [https://github.com/Mayccoll/Gogh](https://github.com/Mayccoll/Gogh) and the following steps is what it took to get it going.
+Our class was given the task to choose 3 programs from [awesome-shell](https://github.com/alebcay/awesome-shell). We need to demonstrate how to install and use it on a virtualbox with Ubuntu. 
 
+The 3 programs I've selected are as follows:
+- [gogh](https://github.com/Mayccoll/Gogh)
+- [prettyping](https://github.com/denilsonsa/prettyping)
+- [critic](https://github.com/Checksum/critic.sh)
+
+## Table of Contents
 - [Gogh](#gogh)
+  - [Table of Contents](#table-of-contents)
   - [1. Install](#1-install)
     - [1.1 Requirements](#11-requirements)
     - [1.2 Interactive Install](#12-interactive-install)
